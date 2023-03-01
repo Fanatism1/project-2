@@ -26,7 +26,7 @@
 .header__container {
   max-width: 2440px;
   padding: 0 11.45%;
-  background-image: url("/site3/img/designer_1.png");
+  background-image: url("img/designer_1.png");
   background-position: right;
   background-size: 70% 100%;
   overflow: visible;
@@ -180,7 +180,7 @@
 }
 
 .section1__container {
-  background-image: url("/site3/img/undraw_mobile_login_ikmv.png");
+  background-image: url("img/undraw_mobile_login_ikmv.png");
   background-size: 524px 540px;
   background-position: 75% 0;
   max-width: 2440px;
@@ -290,7 +290,7 @@
 .section6 {
   max-width: 2440px;
   height: 700px;
-  background-image: url("/site3/img/Rectangle.png");
+  background-image: url("img/Rectangle.png");
   background-size: 100% 100%;
   padding-top: 209px;
 }
